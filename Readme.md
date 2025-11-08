@@ -17,7 +17,7 @@ Cybersecurity student, AI explorer, and software developer building practical to
 **Cloud & Tools:** Firebase, Vercel, Git, JSON Server, Docker (learning)  
 
 ## 🚀 Current Journey
-I’m learning AI for cybersecurity, building production-ready systems, and turning student projects into real deployable tools used by schools, small ISPs, and local businesses.
+I’m learning software engineering, building production-ready systems, and turning student projects into real deployable tools used by schools, small ISPs, and local businesses.
 
 Every project I build tries to answer one question:  
 **How do we simplify life using clean software and smart systems?**
@@ -42,9 +42,9 @@ Small team. Local impact. Real problems solved.
 
 ## 📫 Contact
 - **Email:** erasmus.kipkosgei@student.moringaschool.com  
-- **LinkedIn:** *(add your link)*  
+- **LinkedIn:** *(https://www.linkedin.com/in/erasmus-kipkosgei-8362aa348/)*  
 - **Portfolio:** *(coming soon)*  
-- **GitHub:** You’re already here 👀  
+   
 
 ---
 
