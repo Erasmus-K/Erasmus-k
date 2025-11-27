@@ -41,7 +41,7 @@ Building reliable internet and digital tools for everyday users.
 Small team. Local impact. Real problems solved.
 
 ## 📫 Contact
-- **Email:** erasmus.kipkosgei@student.moringaschool.com  
+- **Email:** erasmussaat1@gmail.com  
 - **LinkedIn:** *(https://www.linkedin.com/in/erasmus-kipkosgei-8362aa348/)*  
 - **Portfolio:** *(coming soon)*  
    
