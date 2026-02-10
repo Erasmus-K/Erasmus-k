@@ -13,6 +13,17 @@ I’ve trained and collaborated with developer communities at **Moringa School**
 
 ---
 
+### 🛠 Tech Stack (Highlights)
+**Languages:** JavaScript, TypeScript, Python  
+**Frontend:** React, Next.js, TailwindCSS, Vue.js  
+**Backend:** Flask, FastAPI, Node.js, NestJS, Gunicorn  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Prisma  
+**Cloud & DevOps:** AWS, Vercel, Render, Docker  
+**Security & Networking:** JWT, Cisco, Apache  
+**AI / Data:** TensorFlow, PyTorch, OpenCV, Pandas, NumPy  
+**Tools:** Git, GitHub, Postman, Jira, Figma, Canva, Twilio, Raspberry Pi
+
+
 ### 🔭 What I’m Working On
 - **NetSkyline Solutions** – Affordable internet access + hotspot billing automation  
 - **CBC Web App** – Digital assessment, reporting & analytics for schools  
