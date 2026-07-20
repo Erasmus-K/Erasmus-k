@@ -93,7 +93,7 @@ Every project I build tries to answer one question:
 ### 🤝 Let’s Connect
 - 📧 Email: erasmussaat1@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/erasmus-kipkosgei-8362aa348/  
-- 🌐 Portfolio: Coming soon  
+- 🌐 Portfolio: https://erasmussaat.vercel.app/ 
 
 ---
 
